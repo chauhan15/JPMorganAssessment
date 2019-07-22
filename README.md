@@ -5,10 +5,10 @@
 ### To run the application, please go to MainApplication.Java and run as "Java application"
 ### You will see following data in report:
 
-####Amount in USD settled incoming everyday
-####Amount in USD settled outgoing everyday
-####Ranking of entities based on incoming and outgoing amount.
+### Amount in USD settled incoming everyday
+### Amount in USD settled outgoing everyday
+### Ranking of entities based on incoming and outgoing amount.
 
-#Please use this command to execute this application on command prompt:
-java -cp target/DailyTradeReporting-0.0.1-SNAPSHOT.jar com.jpmorgan.reporting.mainapplication.MainApplication
+# Please use this command to execute this application on command prompt:
+## java -cp target/DailyTradeReporting-0.0.1-SNAPSHOT.jar com.jpmorgan.reporting.mainapplication.MainApplication
 
