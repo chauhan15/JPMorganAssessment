@@ -1,0 +1,4 @@
+com\jpmorgan\reporting\calculator\IncomingAmountCalculatorTest.class
+com\jpmorgan\reporting\calculator\OutgoingAmountCalculatorTest.class
+com\jpmorgan\reporting\calculator\IncomingAmountRankingCalculatorTest.class
+com\jpmorgan\reporting\datefinder\TradeSettlementDateFinderTest.class

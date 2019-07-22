@@ -1,0 +1,15 @@
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\datefinder\TradeSettlementDateFinder.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\mainapplication\MainApplication.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\predicates\SellingPredicate.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\tradeinstructions\TradeFlag.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\predicates\BuyingPredicate.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\calculator\IncomingAmountRankingCalculator.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\calculator\OutgoingAmountCalculator.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\calculator\Rank.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\tradeinstructionsdetails\TradeInstructionData.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\calculator\OutgoingAmountRankingCalculator.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\calculator\DailyAmountCalculator.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\calculator\IncomingAmountCalculator.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\calculator\EntitiesRankingCalculator.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\tradeinstructions\TradeInstructions.java
+C:\AVI\Rest_API\DailyTradeReporting\src\main\java\com\jpmorgan\reporting\tradingreport\TradingReportGenerator.java
