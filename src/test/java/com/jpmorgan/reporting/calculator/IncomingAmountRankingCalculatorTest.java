@@ -1,8 +1,6 @@
 package com.jpmorgan.reporting.calculator;
 
 import static junit.framework.TestCase.assertEquals;
-import static junit.framework.TestCase.assertTrue;
-import static org.junit.Assert.*;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

@@ -19,5 +19,5 @@ public class DailyAmountCalculator {
 		return instructions.stream().filter(predicate).collect(groupingBy(TradeInstructions::getSettlementDate,
 				mapping(TradeInstructions::getTradeAmount, reducing(BigDecimal.ZERO, BigDecimal::add))));
 	}
-	
+
 }

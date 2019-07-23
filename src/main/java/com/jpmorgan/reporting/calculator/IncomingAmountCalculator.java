@@ -10,6 +10,7 @@ import com.jpmorgan.reporting.tradeinstructions.TradeInstructions;
 
 public class IncomingAmountCalculator {
 	public static Map<LocalDate, BigDecimal> calculateDailyIncomingAmount(Set<TradeInstructions> tradeInstructions) {
-		return DailyAmountCalculator.calculateDailyAmount(tradeInstructions, SellingPredicate.sellingTradingInstructions);
+		return DailyAmountCalculator.calculateDailyAmount(tradeInstructions,
+				SellingPredicate.sellingTradingInstructions);
 	}
 }

@@ -13,5 +13,5 @@ public class OutgoingAmountCalculator {
 	public static Map<LocalDate, BigDecimal> calculateDailyOutgoingAmount(Set<TradeInstructions> tradeInstructions) {
 		return DailyAmountCalculator.calculateDailyAmount(tradeInstructions, BuyingPredicate.buyingTradingInstructions);
 	}
-	
+
 }

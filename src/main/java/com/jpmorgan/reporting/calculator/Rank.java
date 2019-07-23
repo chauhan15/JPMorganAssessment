@@ -4,11 +4,11 @@ import java.time.LocalDate;
 
 public class Rank {
 
-    private final int entityRank;
-    private final String entityName;
-    private final LocalDate date;
+	private final int entityRank;
+	private final String entityName;
+	private final LocalDate date;
 
-    public Rank(int entityRank, String entityName, LocalDate date) {
+	public Rank(int entityRank, String entityName, LocalDate date) {
 		super();
 		this.entityRank = entityRank;
 		this.entityName = entityName;
@@ -27,7 +27,6 @@ public class Rank {
 		return date;
 	}
 
-	
 	@Override
 	public int hashCode() {
 		final int prime = 31;
@@ -67,6 +66,4 @@ public class Rank {
 		return "EntityRank [entityRank=" + entityRank + ", entityName=" + entityName + "]";
 	}
 
-	
-   
 }

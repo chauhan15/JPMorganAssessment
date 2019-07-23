@@ -12,7 +12,8 @@ public class OutgoingAmountRankingCalculator {
 
 	public static Map<LocalDate, LinkedList<Rank>> calculateDailyOutgoingRanking(
 			Set<TradeInstructions> tradeInstructions) {
-		return EntitiesRankingCalculator.calculateEntitiesRank(tradeInstructions, BuyingPredicate.buyingTradingInstructions);
+		return EntitiesRankingCalculator.calculateEntitiesRank(tradeInstructions,
+				BuyingPredicate.buyingTradingInstructions);
 	}
-	
+
 }

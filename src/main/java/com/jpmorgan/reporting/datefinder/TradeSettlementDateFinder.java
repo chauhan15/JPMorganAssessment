@@ -48,6 +48,7 @@ public class TradeSettlementDateFinder {
 		}
 		return date.plusDays(daysToAdd);
 	}
+
 	public static void calculateSettlementDates(Set<TradeInstructions> tradeInstructions) {
 		tradeInstructions.forEach(TradeSettlementDateFinder::calculateSettlementDate);
 	}
